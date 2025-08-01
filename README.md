@@ -1,6 +1,6 @@
-# Scan_ip
+Scan_ip
 
-## 📝 Description du projet
+Description du projet
 Ce projet est un **scanner IP** en Python qui permet de détecter les adresses IP actives ou inactives dans une plage donnée.  
 Les résultats sont affichés à l’écran et enregistrés automatiquement sur le **Bureau** dans un fichier CSV.
 
